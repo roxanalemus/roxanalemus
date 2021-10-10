@@ -1,6 +1,6 @@
 <img src="https://fontmeme.com/permalink/210918/40a1c10292ab09ee9402e01db5068117.png" width="100%">
 
-I am Roxana Lemus and I am a Software Engineer based in Boston. The oldest child in a bicultural household, I had the opportunity and privilege to be the first to learn English. This set me up to navigate systems and technologies my family did not previously have access to due in part to language and financial barriers. Continuing on to adulthood, I used my language skills to transition from working as a barista to working as an interpreter, and then paralegal, supporting Spanish-speaking asylum-seekers. The skills I have developed from these experiences, including a proficiency in problem-solving, attention to detail and leadership have propelled me into the field of software engineering. I bring to this work not only my skills, but also a commitment to supporting access for all.
+I am Roxana Lemus and I am a Software Engineer based in Boston. I bring to this work not only my skills, but also a commitment to supporting access for all.
 
 
 <center><i class="fab fa-twitter"></i></center>
