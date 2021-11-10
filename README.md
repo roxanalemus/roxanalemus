@@ -1,22 +1,17 @@
-<img src="https://fontmeme.com/permalink/210918/40a1c10292ab09ee9402e01db5068117.png" width="100%">
+<div align="center">
+  <br>
+  <img src="https://fontmeme.com/permalink/211110/95a407efbc87dd9b67db69abf9186397.png" border="0" width="75%" alt-text="< Hello world, I'm Roxana! >">
+  <br>
+  <br>
 
-I am Roxana Lemus and I am a Software Engineer based in Boston. I bring to this work not only my skills, but also a commitment to supporting access for all.
+ I am Roxana Lemus and I am a Software Engineer based in Boston. I bring to this work not only my skills, but also a commitment to supporting access for all.     
 
-
-<center><i class="fab fa-twitter"></i></center>
-
-
-<!--
-**roxanalemus/roxanalemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width ="50px" alt-text="JavaScript"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width ="50px"  alt-text="Express"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width ="50px"    alt-text="MongoDB"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width ="50px" alt-  text="React"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width ="50px" alt-  text="Node.js"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width ="50px" alt-  text="CSS3"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width ="50px" alt-    text="HTML5">
+  <br>
+  <br>
+  ## Let's connect:
+  <a href="https://roxanalemus.com">![portfolio](https://user-images.githubusercontent.com/89720092/141145146-1ce5e764-62fe-4ed2-8cf1-b1de24536017.png)</a> <a
+  href="https://linkedin.com/in/jrlemus"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50px"></a> <a href="mailto: roxanalemusdev@gmail.com">  ![arroba-sign](https://user-images.githubusercontent.com/89720092/141147822-9f5367e8-8acb-4108-a69c-7572fd930677.png)
+</a>
+ 
+</div>
