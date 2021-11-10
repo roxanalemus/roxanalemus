@@ -4,7 +4,7 @@
   <br>
   <br>
 
- I am Roxana Lemus and I am a Software Engineer based in Boston. Commitment to community is what drives me: be it working on a feature with my colleagues, interpreting for undocumented immigrants or supporting mutual aid efforts in my neighborhood, community and relationships have always been the foundation. 
+ I am Roxana Lemus and I am a Software Engineer based in Boston. Commitment to community is what drives me: be it working on a feature with my colleagues, interpreting for undocumented immigrants or supporting mutual aid efforts in my neighborhood, community and relationships is always the foundation. 
   
   ## Let's connect:
   <a href="https://roxanalemus.com">![portfolio](https://user-images.githubusercontent.com/89720092/141145146-1ce5e764-62fe-4ed2-8cf1-b1de24536017.png)</a> <a
