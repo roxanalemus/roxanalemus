@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://fontmeme.com/permalink/211110/95a407efbc87dd9b67db69abf9186397.png" border="0" width="75%" alt-text="< Hello world, I'm Roxana! >">
+  <img src="https://fontmeme.com/permalink/211207/4aa3530b268079e460901e37b62ea166.png" border="0" width="75%" alt-text="< Hello world, I'm Roxana! >">
   <br>
   <br>
 
